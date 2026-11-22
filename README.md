@@ -1,6 +1,3 @@
-# SoftwareFJ-Fase4-UNAD
-Sistema de gestión de clientes, servicios y reservas desarrollado en Python 
-
 # Software FJ - Sistema de Gestión de Clientes, Servicios y Reservas
 
 ## Descripción
