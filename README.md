@@ -1,5 +1,14 @@
 # Software FJ - Sistema de Gestión de Clientes, Servicios y Reservas
 
+## Información académica
+
+Universidad: Universidad Nacional Abierta y a Distancia (UNAD)
+Programa: Ingeniería de Sistemas
+Curso: Programación - 213023
+Actividad: Fase 4 - Prácticas simuladas
+Autor: Luis Diego Ponzon Giraldo
+Año: 2026
+
 ## Descripción
 
 Este proyecto fue desarrollado para la Fase 4 del curso Programación (213023) de la Universidad Nacional Abierta y a Distancia (UNAD). Consiste en un sistema desarrollado en Python que permite administrar clientes, servicios y reservas para una empresa ficticia llamada Software FJ. El programa utiliza programación orientada a objetos y no requiere bases de datos. La información se administra mediante objetos y listas durante la ejecución.
